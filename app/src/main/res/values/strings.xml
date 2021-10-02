@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="select_car_type">select car type</string>
+    <string-array name="car_types">
+        <item>SUV</item>
+        <item>sedan</item>
+        <item>hatch-bag</item>
+    </string-array>
+</resources>
